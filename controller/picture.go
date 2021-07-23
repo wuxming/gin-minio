@@ -1,11 +1,12 @@
 package controller
 
 import (
-	"gin1/service"
-	"gin1/utils"
+	"gin-minio/service"
+	"gin-minio/utils"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
+
 //上传文件(图片)
 func Upload(c *gin.Context) {
 	file, err := c.FormFile("file")

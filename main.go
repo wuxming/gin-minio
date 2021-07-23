@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gin1/router"
+	"gin-minio/router"
 )
 
 func main() {

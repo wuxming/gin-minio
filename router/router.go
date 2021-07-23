@@ -1,8 +1,8 @@
 package router
 
 import (
-	"gin1/controller"
-	"gin1/utils"
+	"gin-minio/controller"
+	"gin-minio/utils"
 	"github.com/gin-gonic/gin"
 )
 
