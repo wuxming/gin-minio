@@ -1,0 +1,1 @@
+用gin做的minio客户端的一个demo
