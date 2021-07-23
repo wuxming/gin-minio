@@ -1,4 +1,4 @@
-module gin1
+module gin-minio
 
 go 1.15
 
